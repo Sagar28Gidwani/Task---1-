@@ -28,4 +28,4 @@
 
    Description: This repository focuses on the process of checking and correcting data types. For example, ensuring an 'age' column is an integer and a 'date' column is a       proper date format, with a sample file demonstrating common data type errors.
 
-![]
+![image alt](https://github.com/Sagar28Gidwani/Task---1-/blob/main/final%20look.png?raw=true)
