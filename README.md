@@ -34,3 +34,5 @@ Check and fix data types
 Repository Name: excel-data-type-fixing
 
 Description: This repository demonstrates how to check and correct data types in Excel to ensure data integrity (e.g., ensuring age is a number).
+        
+![image alt](https://github.com/Sagar28Gidwani/Task---1-/blob/main/final%20look.png?raw=true)
