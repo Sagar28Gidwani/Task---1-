@@ -1,38 +1,31 @@
-# Task---1-
-Identify and handle missing values
+ Identify and Handle Missing Values
+1. Repository Name: excel-missing-values-handling
 
-Repository Name: excel-missing-values-handling
+   Description: A repository with an Excel file and a detailed README explaining how to use filters to find and manage missing values in a dataset.
 
-Description: Learn to identify and manage missing data in Excel using filters. The repo includes a sample file and a guide.
+2. Remove Duplicate Rows
+   Repository Name: excel-remove-duplicates
 
-Remove duplicate rows
+   Description: This repository contains an Excel file with duplicate data and instructions on using the "Remove Duplicates" feature to clean it.
 
-Repository Name: excel-remove-duplicates
+3. Standardize Text Values
+   Repository Name: data-standardization
 
-Description: A repository to demonstrate the "Remove Duplicates" feature in Excel for cleaning your datasets. It contains a sample file with duplicate entries.
+   Description: A repository with examples of how to standardize text data, such as converting M to Male and F to Female or correcting country name variations. You can          include a sample file with inconsistent data and a clean version.
 
-Standardize text values
+4. Convert Date Formats
+   Repository Name: date-format-conversion
 
-Repository Name: excel-text-standardization
+   Description: This repository contains a file with dates in various formats and a step-by-step guide on how to convert them into a single, consistent format like dd-mm-       yyyy.
 
-Description: A repository with examples and guides to standardize inconsistent text values like gender or country names in your Excel spreadsheets.
+5. Rename Column Headers
+   Repository Name: clean-column-headers
 
-Convert date formats
+   Description: A repository showing the process of renaming columns to be clean and uniform, using examples like converting First Name to first_name or Age (in years) to       age_years.
 
-Repository Name: excel-date-conversion
+6. Check and Fix Data Types
+   Repository Name: data-type-fixing
 
-Description: This repository provides a guide and sample data to convert and standardize inconsistent date formats in Excel to a consistent type.
+   Description: This repository focuses on the process of checking and correcting data types. For example, ensuring an 'age' column is an integer and a 'date' column is a       proper date format, with a sample file demonstrating common data type errors.
 
-Rename column headers
-
-Repository Name: excel-clean-headers
-
-Description: A guide on how to clean and unify column headers in Excel, making them uniform and easy to work with.
-
-Check and fix data types
-
-Repository Name: excel-data-type-fixing
-
-Description: This repository demonstrates how to check and correct data types in Excel to ensure data integrity (e.g., ensuring age is a number).
-        
-![image alt](https://github.com/Sagar28Gidwani/Task---1-/blob/main/final%20look.png?raw=true)
+![]
